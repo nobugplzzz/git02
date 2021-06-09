@@ -11,7 +11,7 @@
       class="edit-btn"
       @click="updateAbout"
     >
-      修改
+      修改，修改
     </el-button>
   </el-card>
 </template>
