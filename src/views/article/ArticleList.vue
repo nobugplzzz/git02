@@ -11,7 +11,7 @@
         :disabled="articleIdList.length == 0"
         @click="updateIsDelete = true"
       >
-        批量删除，修改，看git
+        批量删除，修改，看git，再次修改，看git
       </el-button>
       <el-button
         v-else
