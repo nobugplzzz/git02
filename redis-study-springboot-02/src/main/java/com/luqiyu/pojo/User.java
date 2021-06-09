@@ -16,6 +16,9 @@ import java.io.Serializable;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
+    /**
+     * 提交
+     */
     private Integer userId;
     private String userName;
 
